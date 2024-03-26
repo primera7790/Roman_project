@@ -1,1 +1,2 @@
-### Just one page about my friend.
+### Just one page about my friend
+#### + simple test about game for another friend
