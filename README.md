@@ -10,7 +10,7 @@
 
   &nbsp; &nbsp; https://primera7790.github.io/Roman_project_html_css_only/
   
-## + БОНУС, wow-project
+## wow-project
   - ### Описание:<br>
 
   &nbsp; &nbsp; Страничка-тест на том же скелете. А насколько хорошо Вы знакомы с классами в World of Warcraft?
