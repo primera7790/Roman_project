@@ -8,7 +8,7 @@
 
   - ### Ссылка для ознакомления:<br>
 
-  &nbsp; &nbsp; https://primera7790.github.io/Roman_project_project/
+  &nbsp; &nbsp; https://primera7790.github.io/Roman_project/
   
 ## + БОНУС, wow-project
   - ### Описание:<br>
@@ -17,4 +17,4 @@
 
   - ### Ссылка для ознакомления:<br>
 
-  &nbsp; &nbsp; https://primera7790.github.io/Roman_project_project/wow_project/
+  &nbsp; &nbsp; https://primera7790.github.io/Roman_project/wow_project/
