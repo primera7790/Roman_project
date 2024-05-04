@@ -1,2 +1,20 @@
-### Just one page about my friend
-#### + simple test about game for another friend (wow-project)
+## Roman_project:
+  - ### Используемые технологии:
+    - HTML5;
+    - CSS3.
+  - ### Описание:<br>
+
+  &nbsp; &nbsp; Шуточная страничка про друга.. для друга. Практиковался писать несложные страницы.
+
+  - ### Ссылка для ознакомления:<br>
+
+  &nbsp; &nbsp; https://primera7790.github.io/Roman_project_project/
+  
+## + БОНУС, wow-project
+  - ### Описание:<br>
+
+  &nbsp; &nbsp; Страничка-тест на том же скелете. А насколько хорошо Вы знакомы с классами в World of Warcraft?
+
+  - ### Ссылка для ознакомления:<br>
+
+  &nbsp; &nbsp; https://primera7790.github.io/Roman_project_project/wow_project/
