@@ -1,4 +1,4 @@
-## Roman_project:
+## Roman_project
   - ### Используемые технологии:
     - HTML5;
     - CSS3.
