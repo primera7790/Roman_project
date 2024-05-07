@@ -1,22 +1,22 @@
 ## Roman_project
 
-  - ### Технологии:
-    - HTML5;
-    - CSS3.
+### Технологии:
+  - HTML5;
+  - CSS3.
     
-  - ### Описание:<br>
+### Описание:<br>
 
-  &nbsp; &nbsp; Шуточная страничка про друга.. для друга. Практиковался писать несложные страницы.
+&nbsp; &nbsp; Шуточная страничка про друга.. для друга. Практиковался писать несложные страницы.
 
-  - ### Ссылка для ознакомления:<br>
+### Ссылка для ознакомления:<br>
 
-  &nbsp; &nbsp; https://primera7790.github.io/Roman_project_html_css_only/
+&nbsp; &nbsp; https://primera7790.github.io/Roman_project_html_css_only/
   
 ## wow-project
-  - ### Описание:<br>
+### Описание:<br>
 
-  &nbsp; &nbsp; Страничка-тест на том же скелете. А насколько хорошо Вы знакомы с классами в World of Warcraft?
+&nbsp; &nbsp; Страничка-тест на том же скелете. А насколько хорошо Вы знакомы с классами в World of Warcraft?
 
-  - ### Ссылка для ознакомления:<br>
+### Ссылка для ознакомления:<br>
 
-  &nbsp; &nbsp; https://primera7790.github.io/Roman_project_html_css_only/wow_project/
+&nbsp; &nbsp; https://primera7790.github.io/Roman_project_html_css_only/wow_project/
